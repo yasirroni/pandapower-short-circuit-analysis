@@ -11,7 +11,7 @@ This tutorial use:
 
 ## Environment
 
-```
+```powershell
 py -3.8 -m virtualenv env
 env\Scripts\Activate.ps1
 pip install pandapower ipykernel
@@ -20,7 +20,7 @@ py -m ipykernel install --name "py3.8-pandapower"
 
 ## Package used
 
-```
+```plaintext
 pandapower==2.9.0
 ipykernel==6.10.0
 ```
