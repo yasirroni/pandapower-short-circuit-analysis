@@ -24,4 +24,5 @@ py -m ipykernel install --name "py3.8-pandapower"
 pandapower==2.9.0
 ipykernel==6.10.0
 matpower==7.1.0.2.1.1
+oct2py==5.5.1
 ```
