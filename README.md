@@ -27,4 +27,5 @@ matpower==7.1.0.2.1.1
 oct2py==5.5.1
 numba==0.55.1
 matplotlib==3.5.1
+python-igraph==0.9.9
 ```
